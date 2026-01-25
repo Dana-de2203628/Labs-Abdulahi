@@ -113,7 +113,7 @@ Create a basic HTML5 document that displays the following text.
 
 **Expected Result:**
 
-![Module 1 - HTML Document Structure](screenshots/module1-structure.png)
+<img src="screenshots/module1-structure.png" alt="Module 1 - HTML Document Structure" width="500">
 
 **Self-Check:**
 
@@ -131,13 +131,19 @@ Demonstrate heading hierarchy and text formatting as shown below.
 
 **Expected Result:**
 
-<fieldset><h1>Main Title</h1>
+<fieldset>
+<legend><strong>Rendered Output</strong></legend>
+
+<h1>Main Title</h1>
 <h2>Section Title</h2>
 <h3>Subsection Title</h3>
-<h4>Sub-subsection Title</h4><p>This is a <strong>bold text</strong> and this is <em>italic text</em>.</p>
+<h4>Sub-subsection Title</h4>
+
+<p>This is a <strong>bold text</strong> and this is <em>italic text</em>.</p>
 <p>You can also use <mark>highlighted text</mark> for important information.</p>
 <p>This is <small>fine print</small> and this is <del>deleted text</del>.</p>
-<legend><strong>Rendered Output</strong></legend></fieldset>
+
+</fieldset>
 
 ---
 
@@ -167,16 +173,20 @@ Add the following to your `practice.html` (after your existing content):
 **Expected Result:**
 
 <fieldset>
-<legend><strong>Rendered Output</strong></legend><h2>My Goals</h2>
+<legend><strong>Rendered Output</strong></legend>
+
+<h2>My Goals</h2>
 <h3>Short-term Goals</h3>
 <p>I want to <strong>master HTML</strong> by the end of this month,
-complete all lab exercises, and build a personal portfolio website.</p></fieldset>
+complete all lab exercises, and build a personal portfolio website.</p>
+
+</fieldset>
 
 ---
 
 **Expected Result:**
 
-![Module 2 - Headings and Text Formatting](screenshots/module2-headings.png)
+<img src="screenshots/module2-headings.png" alt="Module 2 - Headings and Text Formatting" width="500">
 
 **Self-Check:**
 
@@ -256,7 +266,7 @@ Add to your `practice.html`:
 
 **Expected Result:**
 
-![Module 3 - Lists](screenshots/module3-lists.png)
+<img src="screenshots/module3-lists.png" alt="Module 3 - Lists" width="500">
 
 **Self-Check:**
 
@@ -334,11 +344,13 @@ Add to your `practice.html`:
     <a href="#steps">Steps</a>
 </nav>
 
+</fieldset>
+
 ---
 
 **Expected Result:** Clicking navigation links should jump to sections
 
-![Module 4 - Links and Navigation](screenshots/module4-links.png)
+<img src="screenshots/module4-links.png" alt="Module 4 - Links and Navigation" width="500">
 
 **Self-Check:**
 
@@ -355,7 +367,7 @@ Add to your `practice.html`:
 
 Demonstrate adding images:
 
-![Images and Figures Example](screenshots/images-and-figures.png)
+<img src="screenshots/images-and-figures.png" alt="Images and Figures Example" width="600">
 
 ---
 
@@ -387,7 +399,7 @@ Demonstrate adding images:
 
 **Expected Result:**
 
-![Module 5 - Images and Figures](screenshots/module5-images.png)
+<img src="screenshots/module5-images.png" alt="Module 5 - Images and Figures" width="500">
 
 **Self-Check:**
 
@@ -541,7 +553,7 @@ Demonstrate creating accessible data tables:
 
 **Expected Result:**
 
-![Module 6 - Tables](screenshots/module6-tables.png)
+<img src="screenshots/module6-tables.png" alt="Module 6 - Tables" width="500">
 
 **Self-Check:**
 
