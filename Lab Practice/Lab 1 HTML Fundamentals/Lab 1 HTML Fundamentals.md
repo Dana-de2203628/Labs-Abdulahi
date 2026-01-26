@@ -117,9 +117,9 @@ Create a basic HTML5 document that displays the following text.
 
 **Self-Check:**
 
-- [ ] Page displays in browser without errors
-- [ ] Title appears in browser tab
-- [ ] Heading and paragraphs are visible
+- [X] Page displays in browser without errors
+- [X] Title appears in browser tab
+- [X] Heading and paragraphs are visible
 
 ---
 
@@ -190,9 +190,9 @@ complete all lab exercises, and build a personal portfolio website.</p>
 
 **Self-Check:**
 
-- [ ] Heading hierarchy is correct (h2 → h3)
-- [ ] Strong and em tags used appropriately
-- [ ] Content is meaningful and well-structured
+- [X] Heading hierarchy is correct (h2 → h3)
+- [X] Strong and em tags used appropriately
+- [X] Content is meaningful and well-structured
 
 ---
 
