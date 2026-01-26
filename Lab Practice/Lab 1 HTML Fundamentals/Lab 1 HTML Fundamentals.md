@@ -356,7 +356,7 @@ Add to your `practice.html`:
 
 - [X] Clicking navigation links jumps to correct sections
 - [X] External link opens in new tab
-- [ ] Email link opens email client
+- [X] Email link opens email client
 - [X] All links have proper href attributes
 
 ---
