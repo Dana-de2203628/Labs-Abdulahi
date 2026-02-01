@@ -136,10 +136,10 @@ Open `starter-code/Part-A/1-form-practice.html` and add:
 
 **Self-Check:**
 
-- [ ] Clicking labels focuses corresponding inputs
-- [ ] Email field shows email keyboard on mobile (if testing)
-- [ ] Required fields show validation on submit
-- [ ] Reset button clears all fields
+- [X] Clicking labels focuses corresponding inputs
+- [X] Email field shows email keyboard on mobile (if testing)
+- [X] Required fields show validation on submit
+- [X] Reset button clears all fields
 
 ---
 
@@ -242,11 +242,11 @@ Add the following fields:
 
 **Self-Check:**
 
-- [ ] Number input doesn't accept letters
-- [ ] Date picker shows calendar widget
-- [ ] Range slider displays and moves smoothly
-- [ ] Dropdown shows all options
-- [ ] Color picker opens color palette
+- [X] Number input doesn't accept letters
+- [X] Date picker shows calendar widget
+- [X] Range slider displays and moves smoothly
+- [X] Dropdown shows all options
+- [X] Color picker opens color palette
 
 ---
 
@@ -352,10 +352,10 @@ Add to your form:
 
 **Self-Check:**
 
-- [ ] Only one radio button can be selected at a time
-- [ ] Multiple checkboxes can be selected
-- [ ] Clicking legend or anywhere in fieldset doesn't break functionality
-- [ ] Fieldsets have visible borders
+- [X] Only one radio button can be selected at a time
+- [X] Multiple checkboxes can be selected
+- [X] Clicking legend or anywhere in fieldset doesn't break functionality
+- [X] Fieldsets have visible borders
 
 ---
 
